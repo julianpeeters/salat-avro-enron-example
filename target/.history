@@ -24,3 +24,13 @@ exit
 ~run
 exot
 exit
+run -deprecation
+run +deprecation
+deprecation
+-deprecation
+run -deprecation
+~run
+sbt
+run -deprecation
+~run
+exit
